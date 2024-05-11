@@ -45,4 +45,4 @@
 
 **Estou aqui para te ajudar a planejar a viagem dos seus sonhos!**
 
-##Aprenteção gerada pelo Gemini
+## Aprenteção gerada pelo Gemini
